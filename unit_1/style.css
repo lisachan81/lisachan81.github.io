@@ -1,7 +1,10 @@
 body {
-    background-color: black;
+  text-align: center;
+  background: url("http://i.imgur.com/q0FaaAk.jpg");
+  color: #fff;
+  font-family: helvetica;
 }
-
-h1, p {
-    color: gold;
+hr {
+  width: 200px;
+  
 }
